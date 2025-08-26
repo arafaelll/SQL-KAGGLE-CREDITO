@@ -1,1 +1,1 @@
-# SQL-KAGGLE-CREDITO
+Repositório utilizado para coletar as imagens obtidas no AWS Athena para o projeto Análise e Exploração de Dados em SQL que está no Kaggle. https://www.kaggle.com/code/antoniorafaelrodrigs/an-lise-e-explora-o-de-dados-em-sql
